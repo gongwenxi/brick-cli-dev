@@ -1,0 +1,22 @@
+{
+  "name": "@brick-cli-dev/core",
+  "version": "0.0.0",
+  "description": "brick-cli-dev core",
+  "author": "Wenxi",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@brick-cli-dev/utils": "^1.0.0"
+  }
+}

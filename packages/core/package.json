@@ -19,5 +19,8 @@
   "dependencies": {
     "@brick-cli-dev/utils": "^1.0.0"
   },
-  "gitHead": "9e21a6396435c4825dcdd4e97557d1239433d04a"
+  "gitHead": "9e21a6396435c4825dcdd4e97557d1239433d04a",
+  "publishConfig": {
+    "access": "public"
+  }
 }

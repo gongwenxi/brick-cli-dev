@@ -17,7 +17,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@brick-cli-dev/utils": "^1.0.2"
+    "@brick-cli-dev/utils": "^1.0.0"
   },
-  "gitHead": "d9fe57758e62b100d705a76b1a1e0f1864822bf1"
+  "gitHead": "9e21a6396435c4825dcdd4e97557d1239433d04a"
 }

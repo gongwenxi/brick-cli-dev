@@ -1,6 +1,6 @@
 {
   "name": "@brick-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "brick-cli-dev core",
   "author": "Wenxi",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@brick-cli-dev/utils": "^1.0.1"
+    "@brick-cli-dev/utils": "^1.0.2"
   },
   "gitHead": "d9fe57758e62b100d705a76b1a1e0f1864822bf1"
 }

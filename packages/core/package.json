@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@brick-cli-dev/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "d9fe57758e62b100d705a76b1a1e0f1864822bf1"
 }

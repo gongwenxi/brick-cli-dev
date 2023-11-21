@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
+  "bin": {
+    "brick-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -15,5 +18,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
-  }
+  },
+  "gitHead": "d9fe57758e62b100d705a76b1a1e0f1864822bf1"
 }

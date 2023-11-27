@@ -7,5 +7,5 @@ if(importLocal(__filename)){
     require('npmlog').info('cli', 'using local version of brick-cli-dev');
 }
 else{
-    require('./lib/core.js')(process.argv.slice(2));
+    require('../lib/core.js')(process.argv.slice(2));
 }

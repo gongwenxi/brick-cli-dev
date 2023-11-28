@@ -8,6 +8,7 @@
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",
+    "src": "src",
     "test": "__tests__"
   },
   "files": [
